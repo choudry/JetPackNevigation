@@ -18,7 +18,7 @@
         android:background="@color/cardview_dark_background"
         android:textColor="@color/white"
         android:textAllCaps="false"
-        android:text="Spinner"
+        android:text="@string/spinner"
         android:layout_margin="10dp"
         />
 
@@ -32,7 +32,7 @@
         android:background="@color/cardview_dark_background"
         android:textColor="@color/white"
         android:textAllCaps="false"
-        android:text="WebView"
+        android:text="@string/webview"
         />
 
 

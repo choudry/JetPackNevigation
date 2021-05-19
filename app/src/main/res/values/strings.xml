@@ -2,6 +2,8 @@
     <string name="app_name">JetPackNevigation</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="spinner">Spinner</string>
+    <string name="webview">WebView</string>
     <string-array name="spinner">
         <item>Select Options</item>
         <item>One</item>
