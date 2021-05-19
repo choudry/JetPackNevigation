@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/purple_200"
+    android:gravity="center"
+    tools:context=".RootFragment">
+
+    <TextView
+        android:id="@+id/tvspinner"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:background="@color/cardview_dark_background"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:text="Spinner"
+        android:layout_margin="10dp"
+        />
+
+    <TextView
+        android:id="@+id/tvwebview"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@color/cardview_dark_background"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:text="WebView"
+        />
+
+
+
+
+
+</LinearLayout>
